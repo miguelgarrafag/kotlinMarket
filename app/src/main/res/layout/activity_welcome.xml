@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/brown"
+    android:gravity="center"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_marginTop="90dp"
+        android:padding="20dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img_logo" />
+
+        <Button
+            android:id="@+id/buttonInto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/selector_border_button_orange"
+            android:text="@string/textAccess"
+            android:textColor="@color/white"
+            android:textSize="@dimen/mediumSize" />
+
+        <Button
+            android:id="@+id/buttonRegister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/selector_border_button_white"
+            android:text="@string/textRegister"
+            android:textColor="@color/orange"
+            android:textSize="@dimen/mediumSize" />
+
+        <Button
+            android:id="@+id/buttonRegisterFb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/selector_border_button_blue"
+            android:text="@string/textRegisterfb"
+            android:textColor="@color/white"
+            android:textSize="@dimen/mediumSize" />
+    </LinearLayout>
+
+
+</FrameLayout>

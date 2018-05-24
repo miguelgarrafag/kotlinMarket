@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">Empanadas Paulistas</string>
+
+    <!--Facebook-->
+    <string name="facebook_app_id">981364145344268</string>
+    <string name="fb_login_protocol_scheme">fb981364145344268</string>
+
+    <!--WelcomeActivity-->
+    <string name="textToAccess">Ingresar</string>
+    <string name="textRegister">Registrate</string>
+    <string name="textRegisterfb">Ingresa con Facebook</string>
+
+    <!--LoginActivity-->
+    <string name="textAccess">Ingresa</string>
+    <string name="textForgotPassword1">Olvidaste tu contraseña? ingresa</string>
+    <string name="textForgotPassword2">aqui</string>
+
+    <!--RegisterActivity-->
+    <string name="textFacebook">Registrarse con Facebook</string>
+    <string name="textRegisterData">REGISTRAR DATOS</string>
+    <!--RecoverPasswordActivity-->
+    <string name="textRecoverPassword">RECUPERAR CONTRASEÑA</string>
+    <string name="textRecoverTitle">Ingresa tu email y te enviaremos tu contraseña a esa cuenta
+        para que puedas ingresar</string>
+    <string name="textSendPassword">Enviar Contraseña</string>
+
+    <!--DashBoardActivity-->
+    <string name="textLogOut">SALIR</string>
+    <string name="textLogIn">INGRESAR</string>
+    <string name="textYes">SI</string>
+    <string name="textNo">NO</string>
+    <string name="textReally">¿Realmente deseas salir?</string>
+    <string name="textLogin">Para realizar esta función, inicia sesión</string>
+    <string name="textLoginFbError">Hubo un error al intentar iniciar sesión con Facebook</string>
+
+    <!--HomeFragment-->
+    <string name="textNotFound">No se encontró</string>
+    <string name="textEmptyProduct">Por favor intentalo nuevamente buscando en nuestras categorias
+     o buscando otro plato de nuestra carta</string>
+    <string name="textSearch">BUSCAR</string>
+    <string name="textBuy">Comprar</string>
+    <string name="next">Siguiente</string>
+    <string name="validt_empanadas">Debe terminar de seleccionar las empanadas para completar el combo</string>
+    <string name="validt_bebidas">Debe terminar de seleccionar las bebidas para completar el combo</string>
+    <string name="validt_postres">Debe terminar de seleccionar los postres para completar el combo</string>
+    <string name="Buy">Compra </string>
+
+    <!--ProfileFragment-->
+    <string name="textProfile">Mi Perfil</string>
+    <string name="textName">NOMBRE</string>
+    <string name="textDni">DNI</string>
+    <string name="textPhone">TELEFONO</string>
+    <string name="textEmail">CORREO</string>
+    <string name="textRefresh">Actualizar mi clave</string>
+    <string name="textViewAddress">Ver mis direcciones</string>
+    <string name="textPutNewPassword">Ingresa tu nueva contraseña</string>
+    <string name="textSavePassword">Guardar y usar la nueva contraseña</string>
+
+    <!--AddressActivity-->
+    <string name="textAdress">Mis direcciones</string>
+    <string name="textNewAddress">Ingresa la nueva dirección donde quieres que llegue tu compra</string>
+    <string name="textSaveUseAddress">Guardar y usar la nueva dirección</string>
+
+    <!--CartShopActivity-->
+    <string name="textTitleCartShop">Carrito de Compras</string>
+    <string name="textGoCheckOut">IR AL CHECKOUT</string>
+    <string name="textDelivery">Delivery</string>
+    <string name="textTotal">TOTAL</string>
+    <string name="textUnit">Unidad</string>
+    <string name="textCartTitle">Tu carrito de compras esta vacia</string>
+    <string name="textCartDescription">No esperes mas y realiza una compra</string>
+    <string name="textBackHome">REGRESAR AL HOME</string>
+    <string name="textMakeComment">Comentar</string>
+    <string name="textAddSalsa">LISTO</string>
+    <string name="textComment">COMENTARIOS \n SOBRE TU PEDIDO</string>
+    <string name="textSalsa">AGREGALE SALSA \n A TU PEDIDO</string>
+    <string name="textSorryBody">Actualmente no podemos atender su pedido \n debido a que esta
+    fuera de nuestro horario \n de atención.Por favor intentalo nuevamente \n mas tarde</string>
+    <string name="textDayAttention">Lun-Dom:</string>
+    <string name="textHourValue">1:00pm - 10:00pm</string>
+    <string name="cartAdd">Se agrego al carrito de compras </string>
+
+    <!--DialogHour-->
+    <string name="textSorry">¡Lo sentimos!</string>
+    <string name="textSorryDescription">Actualmente no podemos atender tu pedido
+    debido a que estas fuera de nuestro horario de atención. Por favor intentalo
+    nuevamente mas tarde</string>
+    <string name="textHour">Nuestros horarios</string>
+    <string name="textDayP">07:30pm - 08:30pm</string>
+    <string name="textDay">Lun-Dom:</string>
+    <string name="textSunP">12:30pm - 9:30pm</string>
+    <string name="textSun">Dom:</string>
+    <string name="textClose">Cerrar</string>
+
+    <!--AddressActivity-->
+    <string name="textAddress">Detalle del envío</string>
+    <string name="textAddAddress">Agregar nueva dirección</string>
+    <string name="textPay">PAGAR ORDEN</string>
+    <string name="textSelectAddress">SELECCIONA UNA DE TUS DIRECCIONES</string>
+    <string name="textSaveAddress">Guardar nueva dirección</string>
+    <string name="textAddNewAddress">Agrega una nueva dirección</string>
+    <string name="textMessageDelete">Estas seguro que deseas aliminar este elemento?</string>
+    <string name="textPasswordReset">Su contraseña ha sido actualizada</string>
+
+    <!--HistoryFragment-->
+    <string name="textHistory">Historial de compras</string>
+    <string name="textHistoryTitle">Tu historial de compras esta vacío</string>
+    <string name="textDetailHistory">Detalle de compra</string>
+    <string name="textHistoryDescription">No esperes mas y realiza una compra para que tu historial tenga mas vida ;)</string>
+
+    <!--ProductActivity-->
+    <string name="textPrice">PRECIO</string>
+    <string name="textCant">CANTIDAD</string>
+    <string name="textCant2">Cantidad:</string>
+    <string name="textCharge">RECARGO POR ENVÍO</string>
+
+    <!--PayOrderActivity-->
+    <string name="textUserCoupon">Usar cupón de descuento</string>
+    <string name="textResumePurchase">Resumen de tu compra</string>
+    <string name="textSelectPay">Elegir método de pago</string>
+    <string name="textCreditCard">Con tarjeta de crédito</string>
+    <string name="textUponDelivery">Contra entrega tarjeta</string>
+    <string name="textUponCash">Contra entrega efectivo</string>
+    <string name="textDetailPay">Detalles del pago</string>
+    <string name="textPayOrder">Pagar Orden</string>
+    <string name="textUpon">Pagar con efectivo contra entrega</string>
+    <string name="textDetailDelivery">Detalles del envío</string>
+    <string name="textSelectCard">Selecciona la tarjeta con la que vas a pagar tu orden</string>
+
+    <!--RecoverPasswordActivity-->
+    <string name="textSendTitle">Gracias por confiar en nosotros, hemos envíado tu contraseña al email que ingresaste, por favor revisa tu carpeta de Spam</string>
+    <string name="textBackLogin">REGRESAR AL LOGIN</string>
+
+    <!--CongratulacionActivity-->
+    <string name="textThank">Gracias</string>
+    <string name="textThankTitle">Gracias por comprar en nuestra tienda</string>
+    <string name="textThankDescription">En breve nos comunicaremos contigo via email para
+    mostrarte los detalles de tu compra.
+    Sigue disfrutando de la calidad y sabor de nuestros platos en nuestra nueva tienda virtual</string>
+
+
+    <!--Hint-->
+    <string name="hintEmail">Correo</string>
+    <string name="hintPassword">Contraseña</string>
+    <string name="hintPhone">Teléfono</string>
+    <string name="hintFirstName">Nombres</string>
+    <string name="hintLastName">Apellidos</string>
+    <string name="hintConfirmPassword">Confirmar Contraseña</string>
+    <string name="hintSearch">Busca dentro de nuestra tienda</string>
+    <string name="hintActualPassword">Contraseña actual</string>
+    <string name="hintNewPassword">Nueva Contraseña</string>
+    <string name="hintRepeatPassword">Repetir nueva contraseña</string>
+    <string name="hintAddress">Dirección</string>
+    <string name="hintReference">Referencia</string>
+    <string name="str_validate_pass">No debe ser menor de 6 caracteres</string>
+    <string name="str_validate_phone">Ingrese un número de teléfono válido</string>
+    <string name="str_success_phone">Actualización de teléfono, exitoso</string>
+    <string name="hintCreditCardNumber">Número de tarjeta</string>
+    <string name="hintCreditCardName">Nombre de la tarjeta</string>
+    <string name="hintDni">Dni</string>
+    <string name="hintCvc">CVC</string>
+    <string name="hintUpon">Con cuanto vas a pagar?</string>
+    <string name="hintMaxLines">Ingresar comentario (max. 250 caracteres)</string>
+    <string name="hintInputPhone">Ingresa un numero de telefono</string>
+
+    <!--Message Toast-->
+    <string name="messageConnectionInternet">no hay conexion a internet</string>
+    <string name="messageErrorService">error en el servicio, reportar</string>
+    <string name="messageInputError">ingrese correctamente sus datos</string>
+    <string name="messageAuthorization">problemas de autorización</string>
+    <string name="messageLoginFailed">El email y/o clave son incorrectos ó método de inicio de sesión incorrecto</string>
+    <string name="messageLoginInfoFailed">Error al intentar solicitar información del usuario</string>
+    <string name="messageCouponFailed">El cupón es incorrecto</string>
+    <string name="messageLoginConflict">El email ya ha sido registrado</string>
+    <string name="messageLoading">cargando...</string>
+    <string name="messageOhNo">Oh, no!</string>
+    <string name="messageNoConnection">comprueba tu conexión\n a internet</string>
+    <string name="messageValueMinor">El valor ingresado es menor es menor al total</string>
+    <string name="messageCardError">Tarjeta Rechazada</string>
+    <string name="str_validate_credit_card">Hubo un error al intentar realizar el pago</string>
+    <string name="str_validate_credit_card_checkout_success">Hubo un error al intentar regitar la compra exitosamente</string>
+    <string name="str_transaction_denied">Transacción denegada</string>
+    <string name="str_validate_credit_card_checkout_error">Hubo un error al intentar regitar el error de la compra</string>
+    <string name="str_validate_total_10">Para pagar con tarjeta de credito el monto debe ser mayor a S./10</string>
+    <string name="str_unknow_rest_error">Error de comunicación desconocido</string>
+    <string name="str_unknow_validate_mnessage_error">Error no mapeado</string>
+
+    <!--Alert Messages-->
+    <string name="fieldSearch">ingrese la busqueda</string>
+    <string name="fieldName">ingrese nombre</string>
+    <string name="fieldLastname">ingrese apellido</string>
+    <string name="fieldPhone">ingrese teléfono</string>
+    <string name="fieldEmail">ingrese formato valido</string>
+    <string name="fieldCoupon">ingrese un cupón</string>
+    <string name="fieldPassword">ingrese contraseña</string>
+    <string name="fieldConfirmPassword">confime su contraseña</string>
+    <string name="combo_not_valid">No aplica</string>
+    <string name="combo_valid_drink">Puede seleccionar %d bebidas</string>
+    <string name="combo_valid_postre">Puede seleccionar %d postres</string>
+    <string name="anonimus_id">ID Anónimo (Usuario no logueado)</string>
+    <string name="anonimus_name">Nombre Anónimo (Usuario no logueado)</string>
+    <string name="anonimus_email">Email Anónimo (Usuario no logueado)</string>
+
+
+    <string name="blanck_2_strings">%s%s</string>
+    <string name="blanck_3_strings">%s%s%s</string>
+    <string name="blanck_3s_s">%s %s %s</string>
+    <string name="combo_blank">Puede llevar</string>
+    <string name="combo_empanadas">empanada(s)</string>
+    <string name="combo_and">y</string>
+    <string name="combo_coma">,</string>
+
+</resources>

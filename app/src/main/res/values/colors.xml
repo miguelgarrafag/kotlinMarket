@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2D1000</color>
+    <color name="colorPrimaryDark">#1d0b00</color>
+    <color name="colorAccent">#E78300</color>
+
+    <color name="brown">#2D1000</color>
+    <color name="brownPressed">#1d0b00</color>
+    <color name="white">#ffffff</color>
+    <color name="whitePressed">#E7E5E5</color>
+    <color name="grey">#9B9B9B</color>
+    <color name="greyPressed">#807E7E</color>
+    <color name="greyDark">#363636</color>
+    <color name="greyLight">#f6f6f6</color>
+    <color name="orange">#E78300</color>
+    <color name="orangePressed">#ae6506</color>
+    <color name="black">#000000</color>
+    <color name="blue">#8b9dc3</color>
+    <color name="darkBlue">#3b5998</color>
+</resources>
